@@ -1,0 +1,2 @@
+ALTER TABLE uploaded_files ADD COLUMN IF NOT EXISTS workspace VARCHAR(255) DEFAULT 'Default Workspace';
+ALTER TABLE report_templates ADD COLUMN IF NOT EXISTS workspace VARCHAR(255) DEFAULT 'LATEST';

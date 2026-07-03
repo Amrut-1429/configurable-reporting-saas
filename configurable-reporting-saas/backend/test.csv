@@ -1,0 +1,4 @@
+Dealer,Date,Part,Qty,Amount,Invoice,JobCard
+Indore,26-06-2026,Oil Filter,10,500.00,INV-001,JC-001
+Bhopal,27-06-2026,Brake Pad,5,1500.00,INV-002,JC-002
+Indore,28-06-2026,Engine Oil,20,8000.00,INV-003,JC-003
